@@ -11,6 +11,7 @@ and Some farmers plant in incorrect ways, spoiling the soil and crops.
 these two cases represent our problem which is represented by the fear of improper cultivation or cultivation, which will lead to crop failure, soil deterioration, or both.
 
 Solution:
+
 If we support those who want to start farming, and who are farming incorrectly, with an integrated system that monitors their crops and gives them immediate notifications of what the crops want in terms of nutrients and irrigation, we will have overcome the problem.
 
 Our solution has two stages:
