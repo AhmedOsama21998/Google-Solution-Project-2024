@@ -4,8 +4,10 @@ Title: MPLANT
 Slogan: Your Agricultural Guide.
 
 Problem:
+
 Some people may want to grow their crops but initially fear failure.
 and Some farmers plant in incorrect ways, spoiling the soil and crops.
+
 these two cases represent our problem which is represented by the fear of improper cultivation or cultivation, which will lead to crop failure, soil deterioration, or both.
 
 Solution:
