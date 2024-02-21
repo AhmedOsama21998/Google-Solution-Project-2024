@@ -1,6 +1,7 @@
 We are GDSC Al-Azhar Team. This is our project for Google solution challnage 2024.
 
 Title: MPLANT
+
 Slogan: Your Agricultural Guide.
 
 Problem:
